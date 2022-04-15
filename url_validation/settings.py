@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-o722yelj-$y03=apa@%ymesb4lybaf4)s47ek8j%#yqddufv@)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mani-url-validation.herokuapp.com']
+ALLOWED_HOSTS = ['url-validation-django.herokuapp.com']
 
 
 # Application definition
